@@ -1,0 +1,22 @@
+# Simulation waveforms
+*.vcd
+
+# Simulation executables
+*_sim
+*_final_sim
+
+# Check/output files
+*_check
+top_check
+
+# Backup files
+*.save
+
+# OpenLane generated files
+runs/
+results/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
