@@ -42,3 +42,17 @@ x3 = 30
 x4 = 30
 Memory[0] = 30
 
+
+## 📸 Project Visuals
+
+### Functional Simulation
+![Functional Simulation](docs/images/simulation.png)
+
+### GTKWave Simulation Waveform
+![GTKWave Waveform](docs/images/waveform.png)
+
+### OpenLane ASIC Implementation Results
+![OpenLane Results](docs/images/openlane_results.png)
+
+### Final GDSII Layout
+![Final GDSII Layout](docs/images/gds_layout.png)
