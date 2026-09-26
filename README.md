@@ -41,6 +41,7 @@ x2 = 20
 x3 = 30
 x4 = 30
 Memory[0] = 30
+```
 
 
 ## 📸 Project Visuals
